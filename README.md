@@ -69,4 +69,4 @@ python image_filters.py
   - edge output (`edge_5`),
   - color masks (`blue_pool`, `orange_building`, `red_h`).
 
-If you make this repository public, include a few sample images in `resources/` (or describe where they come from) so others can reproduce your outputs.
+This project was developed as coursework in computer vision; shared for learning and reproducibility.
